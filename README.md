@@ -30,6 +30,8 @@ npm run dev
 ```
 ----
 # 📁 Project Structure
+
+```text
 assignment/
 ├── dist/
 ├── node_modules/
@@ -54,8 +56,7 @@ assignment/
 ├── .gitignore
 ├── eslint.config.js
 ├── index.html
-
-
+```
 ----
 -----
 # 🛠️ Features & Tools Implemented

@@ -7,7 +7,7 @@ This repository contains a React application built with Vite, featuring automate
 ## 📦 Project Overview
 
 - **Tech Stack:** React, Vite, Vitest (for testing)
-- **Deployment:** Live on [Vercel/Netlify/Render] (replace with your actual deployed link)
+- **Deployment:** [Live on [Vercel/Netlify/Render] (replace with your actual deployed link)](https://neuradynamics.netlify.app/)
 - **Testing:** Unit and integration tests using Vitest with coverage reports
 
 ---
